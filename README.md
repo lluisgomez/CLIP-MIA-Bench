@@ -1,6 +1,6 @@
 # CLIP-MIA-Bench
 
-[![Paper](https://img.shields.io/badge/paper-PDF-red.svg)](TODO)
+[![Paper](https://img.shields.io/badge/paper-PDF-red.svg)](https://openreview.net/pdf?id=5qP641sAKO)
 [![Dataset](https://img.shields.io/badge/data-HuggingFace-yellow.svg)](https://huggingface.co/datasets/CLIP-MIA-Bench/clip-mia-bench-data)
 [![Models](https://img.shields.io/badge/models-HuggingFace-yellow.svg)](https://huggingface.co/CLIP-MIA-Bench/clip-mia-bench-models)
 
